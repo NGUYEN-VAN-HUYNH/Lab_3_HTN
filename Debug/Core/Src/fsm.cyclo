@@ -1,0 +1,6 @@
+../Core/Src/fsm.c:43:6:draw_lamps_off	1
+../Core/Src/fsm.c:53:6:set_lamps	9
+../Core/Src/fsm.c:97:6:blink_editing_lamp	14
+../Core/Src/fsm.c:116:6:show_mode_and_value	1
+../Core/Src/fsm.c:127:6:show_mode_and_value_edit	1
+../Core/Src/fsm.c:149:6:FSM_process	88
